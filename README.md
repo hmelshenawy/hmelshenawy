@@ -1,108 +1,110 @@
-AI Engineer & Backend Systems Engineer
+# Haitham Mohamed Elshenawy
 
-Building intelligent applications, AI agents, and scalable backend systems.
+### AI Engineer & AI Solutions Architect | Backend Systems Engineering
 
-Haitham Mohamed Elshenawy · Dubai, UAE
+Building **AI agents, knowledge-grounded applications, and scalable backend systems** — from model integration and retrieval pipelines to APIs, data infrastructure, and full-stack experiences.
 
-AI Agents · RAG & LLMs · Backend Architecture · Distributed Systems
+📍 Dubai, UAE · [GitHub](https://github.com/hmelshenawy)
 
-⸻
+---
 
-Professional Overview
+## About
 
-AI Engineer with a strong foundation in backend development and system architecture, focused on building intelligent applications that integrate language models, knowledge retrieval, persistent memory, and real-world business workflows.
+I'm an AI engineer with a strong backend engineering and solution architecture focus. I build applications that connect **LLMs, tools, retrieval, and persistent memory** with real business workflows.
 
-My work spans AI agent development, modular backend platforms, API engineering, data processing, and end-to-end application delivery.
+My interests sit at the intersection of **agentic AI**, **production-minded backend architecture**, and **end-to-end application development**. I value clear service boundaries, maintainable code, and practical systems over demos that only work in isolation.
 
-Featured Projects
+## Featured projects
 
-🧠 Priora Mind Cloud
+### 🧠 [Priora Mind Cloud](https://github.com/hmelshenawy/Priora-Mind-Cloud)
+**Personal AI Agent & Knowledge Platform**
 
-Personal AI Agent & Knowledge Platform
+A multi-service AI application that combines conversational agents, document retrieval, long-term semantic memory, event extraction, and productivity workflows.
 
-An AI-powered personal assistant platform designed to bring together conversational AI, personal knowledge, persistent memory, and tool-based automation.
+- Agent orchestration, tool calling, and streaming responses
+- RAG with a dedicated Python retrieval service and Qdrant
+- Semantic memory using PostgreSQL and pgvector
+- NestJS application backend and Next.js frontend
 
-Engineering highlights
+**Stack:** Python · FastAPI · NestJS · Next.js · PostgreSQL · pgvector · Qdrant · Ollama
 
-* LLM agent orchestration with tool calling and streaming responses
-* Retrieval-Augmented Generation for document-based knowledge
-* Long-term semantic memory and event extraction
-* Multi-service architecture integrating Python and NestJS
+### ⚙️ [SuperFlow API](https://github.com/hmelshenawy/superflow-api)
+**Multi-Tenant Workshop Management Platform**
 
-Technologies: Python · FastAPI · NestJS · PostgreSQL · pgvector · Qdrant · Next.js
+A backend-centered platform for automotive service operations, designed around interconnected business domains and operational workflows.
 
-⚙️ SuperFlow
+- Modular NestJS services and domain-oriented APIs
+- Multi-tenant architecture and access controls
+- Jobs, inspections, estimates, approvals, inventory, and billing workflows
+- Background processing and containerized infrastructure
 
-Multi-Tenant Workshop Management Platform
+**Stack:** TypeScript · NestJS · Prisma · MariaDB · Redis · BullMQ · Docker
 
-A modular automotive workshop management platform supporting complex operational workflows across service reception, workshop operations, inventory, and customer management.
+### 🚗 [PrioraScan](https://github.com/hmelshenawy/Priora-Scan)
+**Automotive Diagnostics & Systems Integration**
 
-Engineering highlights
+An application exploring vehicle diagnostics through OBD-II data collection, Python tooling, and connected backend services.
 
-* Modular NestJS backend with extensive business-domain coverage
-* Multi-tenant architecture with workshop-level access controls
-* Workflow management for jobs, inspections, estimates, and approvals
-* Inventory, purchasing, billing, CRM, and audit capabilities
-* Background job processing and containerized deployment
+- Python desktop agent for diagnostic hardware communication
+- Vehicle data collection and diagnostic workflows
+- Full-stack application and backend integration
+- Ongoing exploration of advanced diagnostics and AI-assisted reporting
 
-Technologies: TypeScript · NestJS · MariaDB · Prisma · Redis · BullMQ · Docker
+**Stack:** Python · NestJS · Next.js · PostgreSQL · OBD-II
 
-💬 Priora Mind
+### 📊 [PrioraMarket Intelligence](https://github.com/hmelshenawy/PrioraMarket-Intelligence)
+**Automotive Market Data & Analytics**
 
-AI-Powered Coaching Application
+A data engineering and analytics project for organizing and analyzing used-vehicle market information.
 
-A full-stack application combining structured onboarding, conversational AI, and knowledge-grounded assistance.
+- Ingestion and normalization of automotive listings
+- Backend APIs for market analytics
+- Snapshot-oriented data analysis and dashboards
 
-Engineering highlights
+**Stack:** Python · NestJS · PostgreSQL · Next.js
 
-* Secure authentication and protected application workflows
-* Assessment and personalized coaching plan management
-* Retrieval-grounded conversational AI
-* Modular backend and multilingual frontend
+### 💬 [Priora Mind](https://github.com/hmelshenawy/Priora-Mind)
+**AI-Powered Coaching Application**
 
-Technologies: NestJS · Next.js · Python · PostgreSQL · RAG
+A full-stack application combining structured onboarding, personalized coaching workflows, and retrieval-grounded conversational AI.
 
-📊 PrioraMarket Intelligence
+- Authentication and protected user workflows
+- Assessment and coaching plan management
+- AI chat and knowledge retrieval
+- Multilingual frontend
 
-Automotive Market Data & Analytics
+**Stack:** NestJS · Next.js · Python · PostgreSQL · RAG
 
-A data-focused application for collecting, organizing, and analyzing automotive market information.
+### 🧪 [TensorFlow in Practice — DeepLearning.AI / Coursera](https://github.com/hmelshenawy/TensorFlow-in-Practice-deeplearning.ai-Coursera)
+**My first hands-on practice in the Machine Learning journey**
 
-Focus: Data ingestion · Processing pipelines · API development · Analytics
+Coursework and notebooks that mark the beginning of my practical ML learning — moving from theory to training models with TensorFlow and Keras.
 
-🚗 PrioraScan
+**Topics:** Neural Networks · Computer Vision · NLP · Time Series
 
-Vehicle Diagnostics & Systems Integration
+*Learning project, not presented as an independent production ML system.*
 
-A vehicle diagnostics project integrating OBD-II data collection, Python-based tooling, and backend services.
+---
 
-Focus: Python · Hardware integration · Diagnostics · API integration
+## Technical expertise
 
-⸻
+| AI & ML Engineering | Backend & Full-Stack | Data & Infrastructure |
+| --- | --- | --- |
+| LLM integration & orchestration | Python & TypeScript | PostgreSQL & MariaDB |
+| AI agents & tool calling | FastAPI & NestJS | pgvector & Qdrant |
+| RAG & semantic retrieval | REST APIs & system design | Redis & BullMQ |
+| Long-term semantic memory | Authentication & authorization | Docker |
+| Event extraction | Multi-tenant architectures | Prisma & Supabase |
+| TensorFlow / Keras foundations | Next.js & React | Background processing |
 
-Technical Expertise
+## Engineering approach
 
-AI Engineering	Backend & Architecture	Data & Infrastructure
-LLM Integration	Python & TypeScript	PostgreSQL & MariaDB
-AI Agents & Tool Calling	FastAPI & NestJS	pgvector & Qdrant
-RAG & Semantic Search	REST API Design	Redis & BullMQ
-Long-Term Memory	Authentication & Authorization	Docker & CI/CD
-Event Extraction	Multi-Tenant Systems	Prisma & Supabase
+I approach AI engineering as a software engineering discipline: **intelligent behavior needs reliable services around it**.
 
-Engineering Philosophy
+That means separating retrieval from orchestration, designing APIs and data models deliberately, keeping business logic maintainable, and treating evaluation, security, and observability as important parts of a mature system.
 
-I approach AI engineering as a software engineering discipline: combining intelligent capabilities with reliable backend services, clear architecture, maintainable components, and practical integrations.
+---
 
-My focus is not only on making AI systems work, but on designing the infrastructure and application workflows needed to make them useful.
+**Interested in:** AI Engineering · AI Solutions Architecture · Backend Systems Engineering
 
-⸻
-
-Connect
-
-Haitham Mohamed Elshenawy
-AI Engineer & Backend Systems Engineer
-Dubai, United Arab Emirates
-
-GitHub
-
-Open to AI Engineering and backend-focused engineering opportunities.
+[Explore my repositories →](https://github.com/hmelshenawy?tab=repositories)
