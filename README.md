@@ -4,7 +4,7 @@
 
 Building **AI agents, knowledge-grounded applications, and scalable backend systems** — from model integration and retrieval pipelines to APIs, data infrastructure, and full-stack experiences.
 
-📍 Dubai, UAE · [GitHub](https://github.com/hmelshenawy)
+📍 Dubai, UAE · [LinkedIn](https://www.linkedin.com/in/haytham-muhammed-92879a193/) · [GitHub](https://github.com/hmelshenawy)
 
 ---
 
@@ -107,4 +107,4 @@ That means separating retrieval from orchestration, designing APIs and data mode
 
 **Interested in:** AI Engineering · AI Solutions Architecture · Backend Systems Engineering
 
-[Explore my repositories →](https://github.com/hmelshenawy?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/haytham-muhammed-92879a193/) · [Explore my repositories →](https://github.com/hmelshenawy?tab=repositories)
