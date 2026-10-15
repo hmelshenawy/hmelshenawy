@@ -1,124 +1,108 @@
-Hi, I’m Haitham 👋
+AI Engineer & Backend Systems Engineer
 
-AI Engineer & AI Solutions Architect
+Building intelligent applications, AI agents, and scalable backend systems.
 
-Building intelligent applications with AI agents, retrieval-augmented generation, and scalable backend systems.
+Haitham Mohamed Elshenawy · Dubai, UAE
 
-I’m a Dubai-based engineer focused on connecting language models to real-world data, tools, and business workflows.
-
-My work spans AI Engineering, Backend Development, Solution Architecture, and Data Engineering, with an emphasis on practical implementation, reliability, and maintainable software.
+AI Agents · RAG & LLMs · Backend Architecture · Distributed Systems
 
 ⸻
 
-🧠 What I Build
+Professional Overview
 
-* AI Agents & Orchestration — Tool calling, multi-step execution, streaming responses, and agent workflows.
-* Retrieval-Augmented Generation (RAG) — Document ingestion, embeddings, vector search, and grounded AI responses.
-* LLM Integration — Local and cloud models, provider abstractions, structured outputs, and contextual prompting.
-* AI Memory Systems — Semantic retrieval, long-term memory, and event-based memory exploration.
-* Backend Architecture — Modular APIs, authentication, asynchronous workflows, and service integrations.
-* Data Engineering — Data ingestion, normalization, and analytics pipelines.
+AI Engineer with a strong foundation in backend development and system architecture, focused on building intelligent applications that integrate language models, knowledge retrieval, persistent memory, and real-world business workflows.
 
-⸻
+My work spans AI agent development, modular backend platforms, API engineering, data processing, and end-to-end application delivery.
 
-🛠️ Technology Stack
-
-Area	Technologies
-Languages	Python, TypeScript, SQL
-AI & LLMs	Ollama, OpenAI APIs, AI Agents, RAG
-Vector Search	Qdrant, pgvector
-Backend	FastAPI, NestJS, Node.js
-Frontend	Next.js, React
-Databases	PostgreSQL, Supabase, Prisma
-Infrastructure	Docker, Git, REST APIs
-Testing	pytest, Vitest, Playwright
-
-⸻
-
-🚀 Featured Projects
+Featured Projects
 
 🧠 Priora Mind Cloud
 
 Personal AI Agent & Knowledge Platform
 
-An evolving personal AI assistant integrating conversational agents, external tools, document retrieval, and long-term memory.
+An AI-powered personal assistant platform designed to bring together conversational AI, personal knowledge, persistent memory, and tool-based automation.
 
-Engineering Highlights
+Engineering highlights
 
-* Python-based agent execution and tool orchestration
-* Streaming LLM responses
-* Document retrieval and semantic search
-* Persistent memory and contextual retrieval
-* Python and backend API integration
+* LLM agent orchestration with tool calling and streaming responses
+* Retrieval-Augmented Generation for document-based knowledge
+* Long-term semantic memory and event extraction
+* Multi-service architecture integrating Python and NestJS
+
+Technologies: Python · FastAPI · NestJS · PostgreSQL · pgvector · Qdrant · Next.js
+
+⚙️ SuperFlow
+
+Multi-Tenant Workshop Management Platform
+
+A modular automotive workshop management platform supporting complex operational workflows across service reception, workshop operations, inventory, and customer management.
+
+Engineering highlights
+
+* Modular NestJS backend with extensive business-domain coverage
+* Multi-tenant architecture with workshop-level access controls
+* Workflow management for jobs, inspections, estimates, and approvals
+* Inventory, purchasing, billing, CRM, and audit capabilities
+* Background job processing and containerized deployment
+
+Technologies: TypeScript · NestJS · MariaDB · Prisma · Redis · BullMQ · Docker
 
 💬 Priora Mind
 
-AI-Powered Coaching Platform
+AI-Powered Coaching Application
 
-A full-stack application combining structured user experiences with AI-assisted conversations and knowledge retrieval.
+A full-stack application combining structured onboarding, conversational AI, and knowledge-grounded assistance.
 
-Engineering Highlights
+Engineering highlights
 
-* Modular NestJS backend architecture
-* Next.js frontend
-* Authentication and user onboarding
-* AI conversation and retrieval pipelines
-* Automated testing and API design
+* Secure authentication and protected application workflows
+* Assessment and personalized coaching plan management
+* Retrieval-grounded conversational AI
+* Modular backend and multilingual frontend
+
+Technologies: NestJS · Next.js · Python · PostgreSQL · RAG
 
 📊 PrioraMarket Intelligence
 
-Automotive Market Data & Analytics Platform
+Automotive Market Data & Analytics
 
-A data engineering and analytics platform transforming marketplace listings into structured market intelligence.
+A data-focused application for collecting, organizing, and analyzing automotive market information.
 
-Engineering Highlights
-
-* Python data ingestion
-* Data normalization and canonicalization
-* PostgreSQL analytics
-* NestJS APIs
-* Next.js dashboards
-
-AI-powered market insights are a planned extension.
+Focus: Data ingestion · Processing pipelines · API development · Analytics
 
 🚗 PrioraScan
 
-Vehicle Diagnostics & Software Integration
+Vehicle Diagnostics & Systems Integration
 
-A diagnostic platform connecting vehicle hardware data with backend services and technician-facing applications.
+A vehicle diagnostics project integrating OBD-II data collection, Python-based tooling, and backend services.
 
-Engineering Highlights
-
-* Python desktop agent
-* OBD-II integration
-* Real-time diagnostic data
-* Backend orchestration
-* Diagnostic data modeling
-
-AI-assisted diagnostics are a future direction.
+Focus: Python · Hardware integration · Diagnostics · API integration
 
 ⸻
 
-⚙️ Engineering Philosophy
+Technical Expertise
 
-I approach AI systems as software engineering problems, not just model integration tasks.
+AI Engineering	Backend & Architecture	Data & Infrastructure
+LLM Integration	Python & TypeScript	PostgreSQL & MariaDB
+AI Agents & Tool Calling	FastAPI & NestJS	pgvector & Qdrant
+RAG & Semantic Search	REST API Design	Redis & BullMQ
+Long-Term Memory	Authentication & Authorization	Docker & CI/CD
+Event Extraction	Multi-Tenant Systems	Prisma & Supabase
 
-My priorities include:
+Engineering Philosophy
 
-* Clear separation of responsibilities
-* Modular and testable components
-* Grounded and traceable AI responses
-* Reliable integrations and error handling
-* Secure data access and user isolation
-* Maintainable architecture and practical trade-offs
+I approach AI engineering as a software engineering discipline: combining intelligent capabilities with reliable backend services, clear architecture, maintainable components, and practical integrations.
 
-I’m particularly interested in how AI agents, retrieval systems, and persistent memory can work together to create more capable and reliable applications.
+My focus is not only on making AI systems work, but on designing the infrastructure and application workflows needed to make them useful.
 
 ⸻
 
-📫 Connect
+Connect
 
-* GitHub: github.com/hmelshenawy
-* Location: Dubai, United Arab Emirates
+Haitham Mohamed Elshenawy
+AI Engineer & Backend Systems Engineer
+Dubai, United Arab Emirates
 
-Open to opportunities in AI Engineering, Applied AI, and AI Solution Architecture.
+GitHub
+
+Open to AI Engineering and backend-focused engineering opportunities.
